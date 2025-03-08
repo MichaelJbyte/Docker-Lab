@@ -11,4 +11,9 @@ ___________________________________________________________________________
 
 [I repeated the steps above for two more distributions such as Alpine and Ubuntu Linux.]
 
-- I also utilized 'hub.docker.com'
+- I also utilized "hub.docker.com" to find an already established container and run.
+______________________________________________________________________________
+
+Overall this small lab taught me the basics of how to easily create containers and showed me how to manage them. It also demonstrated
+to me why they are being used as a better option as opposed to virtual machines. Containers are handled much quicker than VM's and 
+they are even isolated, unlike VM's.

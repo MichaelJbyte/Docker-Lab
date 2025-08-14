@@ -5,7 +5,6 @@ Short lab to get hands on with Docker software.
 This lab was conducted alongside a video on youtube providing hands on experience with Docker, a platform dedicated to the use of containers. The lab was brief and gave my first hands-on experience with container software. The experience taught me how to create, view, and manage containers. All of this was completed through Linode.
 
 ## Below will be the steps I took when following the hands on lab:
-___________________________________________________________________________
 
 1. Generated a Docker linode session via Linode.
 ___________________________________________________________________________

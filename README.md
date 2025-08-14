@@ -9,15 +9,15 @@ ___________________________________________________________________________
 
 1. Generated a Docker linode session via Linode.
 2. Pulled the centos OS from the simulated Docker terminal.
-  - Used: "docker pull centos"
+    - Used: "docker pull centos"
 3. Created a centos container and named it.
-  - Used: "docker run -d -t --name dockercontainerOne centos"
+    - Used: "docker run -d -t --name dockercontainerOne centos"
 4. Opened my newly created container. This initiated another terminal which could be used in the new container.
-  - Used: "docker exec -it dockercontainerOne bash"
+    - Used: "docker exec -it dockercontainerOne bash"
 
 [I repeated the steps above for two more distributions such as Alpine and Ubuntu Linux.]
 
-- I also utilized "hub.docker.com" to find an already established container and run.
+  - I also utilized "hub.docker.com" to find an already established container and run.
 ______________________________________________________________________________
 
 Overall this small lab taught me the basics of how to easily create containers and showed me how to manage them. It also demonstrated

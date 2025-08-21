@@ -26,7 +26,7 @@ ___________________________________________________________________________
 ![image alt](https://github.com/MichaelJbyte/Docker-Lab/blob/e5a14398c1b42efbb6eace8a851a56c313988344/Docker%20003.png) 
 ______________________________________________________________________________
 
-## Afterthoughts
+# Afterthoughts
 
 Overall this small lab taught me the basics of how to easily create containers and showed me how to manage them. It also demonstrated
 to me why they are being used as a better option as opposed to virtual machines. Containers are handled much quicker than VM's and 
